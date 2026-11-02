@@ -1,0 +1,7 @@
+com\smartbudget\util\DBConnection.class
+com\smartbudget\controller\DepenseServlet.class
+com\smartbudget\model\CompteBancaire.class
+com\smartbudget\model\Client.class
+com\smartbudget\dao\DepenseDAO.class
+com\smartbudget\model\Depense.class
+com\smartbudget\dao\DepenseDAOImpl.class
